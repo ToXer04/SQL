@@ -1,6 +1,5 @@
 import java.sql.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Main {
     final static String URL = "jdbc:mysql://localhost:3306/newdb";
